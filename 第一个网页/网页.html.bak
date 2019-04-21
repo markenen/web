@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Design</title>
+	<script type="text/javascript" src="js/conPanel.js"></script>
+	<link rel="stylesheet" type="text/css" href="Untitled3.css">
+	
+</head>
+<body>
+	<!-- 导航条 -->
+	<div id="navbar">
+		<img src="C:\Users\Administrator\Desktop\5.png" width="171px" height="50px" style="text-align: center;">
+		<div class="navbar_L"  >
+			<ul class="navbar_Ul">
+				<li>CONTACT</li>
+				<li>PAGES▼</li>
+				<li>PROJECTS</li>
+				<li>PRICE</li>
+				<li>SERVICES</li>
+				<li>ABOUT</li>
+				<li style="color: #ae130c;">HOME</li>
+				
+			</ul>
+		</div>
+	</div>
+	
+	<!-- 幻灯图 -->
+	<div class="ppt">
+   <img src="C:\Users\Administrator\Pictures\5.jpg" width="100%" height=auto  >
+	</div>
+ 
+	<!-- Our beautiful campus scenery -->
+	
+	<div class="container">
+		<h2>Our beautiful campus scenery</h2>
+		<div class="pic_S">
+			<div class="row">
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">	
+					<div class="picBox">
+						<div style=" width:244.5px height:160px ">
+							<img src="C:\Users\Administrator\Pictures\5.jpg"  width="100%" height=auto  >
+						</div>
+						<div>
+							<p class="pic_p1" >Lorem ipsum</p>
+							<p class="pic_p1 pic_p2" >
+								The school adheres to the motto of “Mingde, Erudition, Seeking Truth, and Zhiyuan”, and carries forward the Nanhua spirit of “diligence, pragmatism, dedication, self-improvement, and daring to be the first”. It always adheres to the status of undergraduate teaching center and continuously promotes the all-round development of the cause.
+							</p>
+							<a class="more" href="#">more</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">	
+					<div class="picBox">
+						<div style=" width:244.5px height:160px ">
+							<img src="C:\Users\Administrator\Pictures\1.jpg" width="100%" height=auto   >
+						</div>
+						<div>
+							<p class="pic_p1">Lorem ipsum</p>
+							<p class="pic_p1 pic_p2">
+								Since the beginning of the new century, the school has defined the development goals of “high-level teaching and research universities with distinctive characteristics, domestic first-class and international influence” based on the orientation of “teaching research universities”, and established the goal of undergraduate education talent training.
+							</p>
+							<a class="more" href="#">more</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">	
+					<div class="picBox">
+						<div style=" width:244.5px height:160px ">
+							<img src="C:\Users\Administrator\Pictures\4.jpg" width="100%" height=auto >
+						</div>
+						<div>
+							<p class="pic_p1" >Lorem ipsum</p>
+							<p class="pic_p1 pic_p2" >
+								Nanhua University is a comprehensive university jointly established by the Ministry of Industry and Information Technology, the National Defense Science and Technology Industry Bureau, China National Nuclear Corporation, China Nuclear Industry Construction Corporation and the Hunan Provincial People's Government.
+							</p>
+							<a class="more" href="#">more</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">	
+					<div class="picBox">
+						<div style=" width:244.5px height:160px ">
+							<img src="C:\Users\Administrator\Pictures\2.jpg" width="100%" height=auto >
+						</div>
+						<div>
+							<p class="pic_p1" >Lorem ipsum</p>
+							<p class="pic_p1 pic_p2">
+								The school was merged and formed by the Central South Institute of Technology and Hengyang Medical College. The Sixth Research Institute of the Nuclear Industry was merged. It is a national university's basic capacity building project to support the construction of colleges and universities. It is an excellent engineer and excellent doctor education training plan unit approved by the Ministry of Education.
+							</p>
+							<a class="more" href="#">more</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+ 
+	<!-- footer -->
+	
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<div style="padding: 0 15px">
+					<h2 class="h2_Fond">About Us</h2>
+					<p class="p_p">Perspiciatis unde omnis iste natus error sit voluptatem. Cum sociis natoque penatibus et magnis dis parturient montes ascetur ridiculus musull dui.</p>
+					<p class="p_p">Lorem ipsumulum aenean noummy endrerit mauris. Cum sociis natoque penatibus et magnis dis parturient montes ascetur ridiculus mus. Null dui. Fusce feugiat malesuada odio.</p>
+					<a href="#" class="more" >read more</a>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div style="padding: 0 15px">
+					<h2 class="h2_Fond">Projects</h2>
+					<div class="fUl">
+						<ul >
+							<li>Singapore Township</li>
+							<li>Mega luxury Villas</li>
+							<li>RNT Commercial Shopping Mall</li>
+							<li>SVN Independent & Duplex Houses</li>
+							<li>World wide IT park</li>
+							<li>North Arena SNT Township</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div style="padding: 0 15px">
+					<h2 class="h2_Fond">Our Clients</h2>
+					<div style="width:349px height:153px">
+						<img src="C:\Users\Administrator\Pictures\5.jpg" width="100%" height=auto>
+					</div>
+				</div>
+ 
+			</div>
+		</div>
+	</div>
+ 
+	<!-- 最底部 -->
+	
+	<div class="big">
+		<div class="container footerText">
+			<div class="row">
+				<div class="col-md-6 panel">
+					<div>
+						<p>
+							<a class="footerP" href="index.html">Home</a> | 
+							<a class="footerP" href="about.html">About</a> |
+							<a class="footerP" href="services.html">Services</a> |
+							<a class="footerP" href="price.html">Price</a> |
+							<a class="footerP" href="projects.html">Projects</a> |
+							<a class="footerP" href="contact.html">Contact</a>
+						</p>
+					</div>
+				</div>
+				<div class="col-md-6 panel">
+					<div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>
